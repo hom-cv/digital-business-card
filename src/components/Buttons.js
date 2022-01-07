@@ -22,7 +22,7 @@ function emailButton() {
 
 function linkedinButton() {
     window.open(
-        "www.linkedin.com/in/chaithat-vanasrisawasd-89b55b16a",
+        "https://www.linkedin.com/in/chaithat-vanasrisawasd-89b55b16a",
         '_blank'
     )
 }

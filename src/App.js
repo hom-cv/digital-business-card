@@ -9,10 +9,6 @@ function App() {
         <InfoCard />
         <Socials />
       </div>
-      //<Namecard />
-      //<About />
-      //<Interests />
-      //<Links />
   )
 }
 
