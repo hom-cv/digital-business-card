@@ -5,7 +5,7 @@ export default function Body() {
         <div className="body--container">
             <h4 className="heading">About Me</h4>
             <h5 className="textcontent">I am a aspiring full stack developer that has only just
-                started developing using React. this is my first project
+                started developing using React. This is my first project
                 from my first chapter in the Scrimba React course. Hopefully
                 I can use these skills learnt in my upcoming SWE work at
                 CashFlow Portal
